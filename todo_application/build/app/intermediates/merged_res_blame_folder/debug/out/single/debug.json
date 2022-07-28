@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_appicon.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-hdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_appicon.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-mdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_appicon.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_appicon.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_appicon.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\appicon.png"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\todo_application\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Flutter Apps\\todo_application\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
